@@ -11,7 +11,7 @@ There are three encryption methods provided by this service:
 Following command can be run to test the code.
 
 ```node message-mixer.js ['caesar'|'symbol'|'reverse'] [amount]```
-
+# some example
 ``` $ node message-mixer.js caesar 4
 Enter the message you would like to encrypt...
 > hello world
@@ -24,5 +24,21 @@ Enter the message you would like to encrypt...
 > hello world
  
 Here is your encrypted message:
-> olleh dlrow ```
+> olleh dlrow
+````
+# Super Encoder
+``` node super-encoder.js encode node ``` 
+
+``` node super-encoder.js decode```
+
+
+
+
+
+
+
+
+
+
+
 
